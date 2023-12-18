@@ -7,7 +7,6 @@ STR_GRF_DESC						:{ORANGE}Originální hrou inspirovaný průmysl{BLACK} s nov�
 STR_WEBSITE							:https://github.com/2TallTyler/improved_town_industries/blob/master/README.md
 
 STR_ERROR_GAME_VERSION				:{TITLE} vyžaduje OpenTTD verzi 1.10.0, JGR verzi 0.34, nebo vyšší.
-STR_ERROR_RCLC_NEEDS_ITL			:{TITLE} Odpadový a recyklační řetězec vyžaduje kompatibilní set domů (doporučený: Improved Town Layouts verze 1.3.0 nebo vyšší).
 STR_ERR_INCOMPATIBLE_SET			:{YELLOW}{TITLE}{WHITE} je nekompatibilní s {YELLOW}{STRING}{WHITE}.
 
 STR_PARAM_NAME_PRIMARY_ONLY			:Generuj pouze primární průmysl

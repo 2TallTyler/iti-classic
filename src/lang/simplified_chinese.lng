@@ -6,7 +6,6 @@ STR_GRF_DESC						:{ORANGE}默认风格的行业{BLACK}拥有新的产业链,工
 STR_WEBSITE							:https://github.com/2TallTyler/improved_town_industries/blob/master/README.md
 
 STR_ERROR_GAME_VERSION				:{TITLE} 需要OpenTTD版本1.10.0,JGR版本0.34,或更高.
-STR_ERROR_RCLC_NEEDS_ITL			:{TITLE} 回收产业链需要一套兼容的建筑(推荐Improved Town Layouts版本1.3.0或更高).
 STR_ERR_INCOMPATIBLE_SET			:{YELLOW}{TITLE}{WHITE} is incompatible with {YELLOW}{STRING}{WHITE}.
 
 STR_PARAM_NAME_PRIMARY_ONLY			:仅生成一级产业

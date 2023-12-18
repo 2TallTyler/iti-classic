@@ -6,7 +6,6 @@ STR_GRF_DESC:{ORANGE}Индустрия, вдохновленная ваниль
 STR_WEBSITE: https://github.com/2TallTyler/improved_town_industries/blob/master/README.md
 
 STR_ERROR_GAME_VERSION:{TITLE}требует OpenTTD версии 1.10.0, JGR версии 0.34 или выше.
-STR_ERROR_RCLC_NEEDS_ITL:{TITLE}Цепочка отходов и переработки требует совместимого набора домов (рекомендуется: улучшенная планировка города версии 1.3.0 или выше).
 STR_ERR_INCOMPATIBLE_SET:{YELLOW}{TITLE}{WHITE}несовместим с{YELLOW}{STRING}{WHITE}.
 
 STR_PARAM_NAME_PRIMARY_ONLY: создание только основных отраслей

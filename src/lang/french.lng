@@ -6,7 +6,6 @@ STR_GRF_DESC						:{ORANGE}Industries inspirées des versions de base{BLACK} mai
 STR_WEBSITE							:https://github.com/2TallTyler/improved_town_industries/blob/master/README.md
 
 STR_ERROR_GAME_VERSION				:{TITLE} requiert OpenTTD 1.10.0, JGR 0.34, ou des versions ultérieures
-STR_ERROR_RCLC_NEEDS_ITL			:{TITLE} La chaîne de recyclage requiert un set de maisons compatible (recommandé: Improved Town Layouts version 1.3.0 or supérieure).
 STR_ERR_INCOMPATIBLE_SET			:{YELLOW}{TITLE}{WHITE} est incompatible avec {YELLOW}{STRING}{WHITE}.
 
 STR_PARAM_NAME_PRIMARY_ONLY			:Générer uniquement des industries primaires

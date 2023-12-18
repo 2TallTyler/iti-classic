@@ -6,7 +6,6 @@ STR_GRF_DESC						:{ORANGE}Vaniljinspirerade industrier{BLACK} med nya transport
 STR_WEBSITE							:https://github.com/2TallTyler/improved_town_industries/blob/master/README.md
 
 STR_ERROR_GAME_VERSION				:{TITLE} kräver OpenTTD version 1.10.0, JGR version 0.34, eller högre.
-STR_ERROR_RCLC_NEEDS_ITL			:{TITLE} Industrikedjor för Avfall och Återvinning kräver kompatibla byggnader. (Rekommendation: Improved Town Layouts version 1.3.0 eller högre).
 STR_ERR_INCOMPATIBLE_SET			:{YELLOW}{TITLE}{WHITE} är inkompatibel med {YELLOW}{STRING}{WHITE}.
 
 STR_PARAM_NAME_PRIMARY_ONLY			:Generera endast primära industrier 

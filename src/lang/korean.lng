@@ -6,7 +6,6 @@ STR_GRF_DESC						:새로운 산업시설 연계망, 출퇴근하는 근로자, 
 STR_WEBSITE							:https://github.com/2TallTyler/improved_town_industries/blob/master/README.md
 
 STR_ERROR_GAME_VERSION				:{TITLE}을 사용하려면 OpenTTD 1.10.0, JGR 패치 팩 0.34 또는 그 이상의 버전이 필요합니다.
-STR_ERROR_RCLC_NEEDS_ITL			:{TITLE}의 폐기물 & 재활용 체계는 적절한 건물 세트와 함께 사용해야 합니다. (추천: Improved Town Layout 버전 1.3.0 이상)
 STR_ERR_INCOMPATIBLE_SET			:{YELLOW}{TITLE}{WHITE}은 {YELLOW}{STRING}{WHITE}(와)과 함께 사용할 수 없습니다.
 
 STR_PARAM_NAME_PRIMARY_ONLY			:1차 산업시설만 생성
