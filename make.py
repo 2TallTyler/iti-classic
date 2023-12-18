@@ -3,7 +3,7 @@
 #################################
 
 # Name of NewGRF, as it appears in file names
-newgrf_name = "improved_town_industries"
+newgrf_name = "iti-classic"
 
 # Files which should be first, in order (header, cargotable, etc)
 header_stuff = ["header", "cargos", "functions"]

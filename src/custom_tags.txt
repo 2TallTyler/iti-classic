@@ -1,2 +1,2 @@
-VERSION			:1.7.9
-TITLE			:Improved Town Industries
+VERSION			:1.0
+TITLE			:ITI/ITL Classic

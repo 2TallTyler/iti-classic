@@ -1,18 +1,11 @@
 /* *** Begin Header *** */
 
-/*
-*
-*	Welcome to Improved Town Industries!
-*	
-*/
-
-
 grf {
-	grfid: "TT\04\01";
+	grfid: "TT25";
 	name: string(STR_GRF_NAME);
 	desc: string(STR_GRF_DESC);
-	version: 22;
-	min_compatible_version: 11;
+	version: 0;
+	min_compatible_version: 0;
 
 	url: string(STR_WEBSITE);
 
