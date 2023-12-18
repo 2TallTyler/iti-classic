@@ -83,3 +83,11 @@ STR_CARGO_QUANTITY_NUCLEAR_FUEL		:{WEIGHT} de combustible nucléaire
 STR_CARGO_NAME_NUCLEAR_WASTE		:Déchets Nuclaires
 STR_CARGO_ABBREV_NUCLEAR_WASTE		:{TINYFONT}DN
 STR_CARGO_QUANTITY_NUCLEAR_WASTE	:{WEIGHT} de déchets nucléaires
+
+# ITL Houses strings
+STR_NAME_HISTORIC_CHURCH				:Église historique
+STR_NAME_SHOP							:Magasin
+STR_NAME_UNIVERSITY						:Université
+STR_NAME_COURTHOUSE						:Tribunal
+STR_NAME_MUSEUM							:Musée
+STR_NAME_SPA							:Spa

@@ -6,10 +6,10 @@
 newgrf_name = "iti-classic"
 
 # Files which should be first, in order (header, cargotable, etc)
-header_stuff = ["header", "cargos", "functions"]
+header_stuff = ["header", "cargos", "graphics", "functions", "switches", "waste"]
 
 # Files to place in alphabetical order below
-unordered_stuff = ["coal_mine", "farm", "forest", "iron_mine", "nuclear_fuel_plant", "factory", "oil_refinery", "oil_rig", "oil_wells", "paper_mill", "power_plant", "recycling_center", "sawmill", "steel_mill", "uranium_mine"]
+unordered_stuff = ["coal_mine", "farm", "forest", "iron_mine", "nuclear_fuel_plant", "factory", "oil_refinery", "oil_rig", "oil_wells", "paper_mill", "power_plant", "recycling_center", "sawmill", "steel_mill", "uranium_mine", "residential", "commercial", "landmarks", "tropic", "arctic"]
 
 # Do you want to copy the completed NewGRF to your OpenTTD folder? (If in the typical location at "~/Documents/OpenTTD/newgrf")
 copy_bool = True

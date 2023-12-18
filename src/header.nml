@@ -83,6 +83,9 @@ grf {
 disable_item(FEAT_INDUSTRIES, 0, 4);
 disable_item(FEAT_INDUSTRIES, 6, 36);
 
+/* Dsiable base game houses */
+disable_item(FEAT_HOUSES);
+
 /* Disable base game cargos */
 disable_item(FEAT_CARGOS);
 
