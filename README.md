@@ -2,19 +2,24 @@
 
 ![Trucks drop off Waste at a recycling center while passenger trains bring employees to work](/docs/recycling_center.PNG)
 
+## Disclaimer
+
+This is the old V1 of Improved Town Industries, bundled with a compatible version of [ITL Houses](https://github.com/2TallTyler/itl_houses).
+
+It is not really supported and will not be developed any further. However, I will do my best to fix any bugs that are reported.
+
 ## Overview
 
 - Simple cargos accepted by multiple industries, designed for asymmetric Cargodist
 - Processing industries spawn near towns
 - Most industries accept and create passengers as workers
 - Industries have realistic invention dates for gameplay as early as 1700
-- When used with Improved Town Layouts or another compatible house set, adds Waste & Recycling chain
+- Adds Waste & Recycling chain
 - Includes object tiles for visually expanding industries
 - Designed for Temperate climate only
 - Uses only base game sprites, so visually compatible with any base graphics set including original TTD, OpenGFX, aBase, zBase, and NightGFX
 - Incompatible with other industry sets
 - Requires OpenTTD version 1.10.0, JGR version 0.34, or better
-- Requires NewGRF vehicles which support additional cargos
 
 ## Cargo chain
 ![Improved Town Industries cargo chain](/docs/industry_chart.PNG)
@@ -27,7 +32,7 @@
 - Cargos are generic and have multiple destinations, designed for asymmetric Cargodist gameplay
   - For example, the Oil Refinery processes Oil into Chemicals, which can be delivered to the Farm as fertilizer, the Factory as plastics, or the Paper Mill as the industrial chemicals used to break down wood pulp.
 - The additional cargos require NewGRF vehicles which support additional cargos
-- Food can be delivered directly to towns when a NewGRF house set accepts Food (recommended: Improved Town Layouts) or converted to Goods by the Factory
+- Food can be delivered directly to towns or converted to Goods by the Factory
 
 ### Processing industries spawn near towns
 
@@ -42,8 +47,7 @@
 - Many industries accept passengers. This has no effect on cargo production.
 
 ### Towns generate Waste 
-**(requires Improved Town Layouts)**
-- Improved Town Layouts houses produce Waste, which can be transported to the Farm to be fed to the pigs (returns 1/4 ton of Food per ton of Waste) or to the Recycling Center (from 1945) for conversion to Recycled Materials.
+- Houses produce Waste, which can be transported to the Farm to be fed to the pigs (returns 1/4 ton of Food per ton of Waste) or to the Recycling Center (from 1945) for conversion to Recycled Materials.
 - Recycled Materials are accepted at:
   - Steel Mill (scrap metal)
   - Paper Mill (paper and cardboard)
@@ -100,14 +104,6 @@
 - Enable Waste & Recycling chain
   - Enables Recycling Center to sort Waste from town buildings into Recycled Materials for transport to industries
   - See section above in README
-  - **Requires Improved Town Layouts version 1.3.0 or better**
-
-## Code Reference
-All code is commented and is organized into several .nml files (one for each industry) which are combined by a simple Python script into a merged .nml file for compiling into the .grf. All of these files are in /src/.
-
-All cargos are defined in cargos.nml. Incompatible NewGRFs are listed in header.nml.
-
-If you have any questions, please feel free to contact me and I will do my best to help.
 
 ## Translations
 Currently available in:
